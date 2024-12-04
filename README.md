@@ -1,58 +1,57 @@
-# Hi, I'm Mohamed El-Kady 👋  
-### CS Student | Instructor Programming | Front-End Developer | Competitive Programmer  
+<h2 align="center">Hi, I'm Mohamed Al-Kady 👋</h2>
 
----
+###
 
-## 🌟 About Me  
-- **Instructor Programming**  
-- Passionate about Front-End Development.  
-- Active in **Competitive Programming** (Codeforces, LeetCode).
+<br clear="both">
 
----
+<p align="center">CS Student | Instructor Programming | Front-End Developer | Competitive Programmer</p>
 
-## 📹 YouTube Channel  
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/your-channel-link)  
+###
 
----
+<br clear="both">
 
-## 🌐 Social Media  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-link)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-link)  
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-orange?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow-id)  
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-profile)  
+<p align="center">📫 How to reach me : mohamed01elkady78@gmail.com</p>
 
----
+###
 
-## 💻 Competitive Programming  
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-lightgrey?style=flat&logo=codeforces&logoColor=black)](https://codeforces.com/profile/your-codeforces-handle)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-profile)  
+<h3 align="center">Connect with me:</h3>
 
----
+###
 
-## 👨🏻‍💻 Technologies That I Know  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</div>
 
-### Programming Languages:  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white)  
+###
 
-### Tools and Frameworks:  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat&logo=visualstudiocode&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-OS-black?style=flat&logo=linux&logoColor=yellow)  
-![Discord](https://img.shields.io/badge/Discord-Chat-blue?style=flat&logo=discord&logoColor=white)  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
----
+###
 
-## 📈 Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alkady22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=alkady22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alkady22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
-
-## السلام عليكم ورحمة الله وبركاته  
-✨🌟  
+###
