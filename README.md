@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<div align="center">
+<div align="center" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo" />
   </a>
@@ -21,6 +21,9 @@
   </a>
   <a href="https://www.facebook.com/your-facebook-profile/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="Facebook logo" />
+  </a>
+  <a href="https://codeforces.com/profile/your-codeforces-handle" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3628695-3030120.png" width="47" height="35" alt="Codeforces logo" />
   </a>
 </div>
 
