@@ -1,53 +1,51 @@
-<h2 align="center" style="font-size: 2.5em; color: #4CAF50;">Hi, I'm Mohamed Al-Kady 👋</h2>
+<h2 align="center">Hi, I'm Mohamed Al-Kady 👋</h2>
 
 ###
 
-<p align="center" style="font-size: 1.5em; color: #007BFF; font-weight: bold;">
+<p align="center" style="font-size: 18px; color: #2E3A59; font-weight: bold;">
   CS Student | Instructor Programming | Front-End Developer | Competitive Programmer
 </p>
 
 ###
 
-<p align="center" style="font-size: 1.2em; color: #FF5722; font-weight: bold;">
+<p align="center" style="font-size: 16px; color: #2E3A59;">
   📫 How to reach me: 
-  <a href="mailto:mohamed01elkady78@gmail.com" style="color: #FF9800; text-decoration: none;">
-    mohamed01elkady78@gmail.com
-  </a>
+  <a href="mailto:mohamed01elkady78@gmail.com" style="color: #0078D4; font-weight: bold;">mohamed01elkady78@gmail.com</a>
 </p>
 
 ###
 
-<h3 align="center" style="font-size: 1.5em; color: #4CAF50;">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<div align="center" style="text-decoration: none;">
+<div align="center" style="text-decoration: none; margin-top: 10px;">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="LinkedIn logo" style="margin: 0 10px;" />
   </a>
   <a href="https://www.youtube.com/your-youtube-channel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="YouTube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" height="40" alt="YouTube logo" style="margin: 0 10px;" />
   </a>
   <a href="https://www.facebook.com/your-facebook-profile/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="Facebook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="Facebook logo" style="margin: 0 10px;" />
   </a>
   <a href="https://codeforces.com/profile/your-codeforces-handle" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3628695-3030120.png" width="47" height="35" alt="Codeforces logo" />
+    <img src="codeforces-sponsored-by-ton.png" width="120" height="40" alt="Codeforces logo" style="margin: 0 10px;" />
   </a>
 </div>
 
 ###
 
-<h3 align="center" style="font-size: 1.5em; color: #4CAF50;">Technologies I Know:</h3>
+<h3 align="center">Technologies I Know:</h3>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub logo" />
+<div align="center" style="margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" style="margin: 0 8px;" />
 </div>
 
 ###
