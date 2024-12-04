@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="Facebook logo" style="margin: 0 10px;" />
   </a>
   <a href="https://codeforces.com/profile/your-codeforces-handle" target="_blank">
-    <img src="codeforces-sponsored-by-ton.png" width="120" height="40" alt="Codeforces logo" style="margin: 0 10px;" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3628695-3030120.png" width="40" height="40" alt="Codeforces logo" style="margin: 0 10px;" />
   </a>
 </div>
 
