@@ -20,15 +20,21 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-alkady-377327299/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@mohamed9alkady" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="57" height="45" alt="youtube logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100034629382692" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="57" height="45" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -60,8 +66,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alkady22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alkady22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
