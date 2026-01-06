@@ -30,14 +30,14 @@
 
 ---
 
-## 🔥 About Me
+## About Me
 
 I am a passionate Full-Stack Developer who loves building innovative solutions, a Competitive Programmer who enjoys solving complex problems, and a Programming Instructor who finds joy in simplifying difficult concepts.  
 I create Arabic educational content on YouTube through my channel **"شفرة بلص"**, where I share my passion for programming with thousands of learners.
 
 ---
 
-## 💼 Technical Skills
+## Technical Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -72,18 +72,15 @@ I create Arabic educational content on YouTube through my channel **"شفرة ب
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/>
   <img width="12"/>
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40" alt="Codeforces"/>
-    <!-- WordPress Badge -->
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="40" alt="WordPress"/>
   <img width="12"/>
-  <!-- Full-Stack Badge -->
   <img src="https://img.shields.io/badge/Full-Stack-8A2BE2?style=for-the-badge&logo=&logoColor=white" height="40" alt="Full-Stack"/>
   <img width="12"/>
 
 </div>
 
 
-
-### 🎨 Additional Skills
+### Additional Skills
 ![Teaching](https://img.shields.io/badge/Teaching_&_Mentoring-Expert-4A90E2?style=flat-square)
 ![Content_Creation](https://img.shields.io/badge/Content_Creation-Pro-FF6B6B?style=flat-square)
 ![Clean_Code](https://img.shields.io/badge/Clean_Code-Advanced-7ED321?style=flat-square)
@@ -94,27 +91,8 @@ I create Arabic educational content on YouTube through my channel **"شفرة ب
 ![Consistency](https://img.shields.io/badge/Consistency-High-E74C3C?style=flat-square)
 ![Self_Learning](https://img.shields.io/badge/Self_Learning-Advanced-3498DB?style=flat-square)
 
-
----
-
-## 📺 Featured YouTube Content
-
-🔹 **Problem Solving Training – Step by Step**  
-🔹 **Complete Guide to Problem Solving & ECPC**  
-🔹 **Competitive Programming Foundations for Beginners**  
-🔹 **Data Structures in C++ – Full Course (Coming Soon 🚀)**
-
----
-
-## 🎯 My Programming Philosophy
-
-> "We use programming to solve problems with our own hands, not to memorize solutions."  
-> "I believe that real learning comes from struggling with the problem, not just watching tutorials."  
-> "That’s exactly what **شفرة بلص** is about: it doesn’t give you answers — it teaches you how to think, analyze, and break the code."
-
 ---
 
 <div align="center">
-### ⚡ Quick Fact About Me
-I love turning complex ideas into simple, easy-to-understand content — and that’s exactly what I do on **شفرة بلص** every week!
+I love turning complex ideas into simple, easy-to-understand content — and that’s exactly what I do on شفرة بلص every week!
 </div>
