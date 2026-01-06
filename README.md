@@ -23,11 +23,9 @@
   <a href="https://www.tiktok.com/@shafraplus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo" />
   </a>
-  <a href="mohamed9kady@gmail.com
-" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
+<a href="mailto:mohamed9kady@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
 
 
 ---
@@ -70,6 +68,18 @@ I create Arabic educational content on YouTube through my channel **"شفرة ب
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
+
+### 🎨 Additional Skills
+![Teaching](https://img.shields.io/badge/Teaching_&_Mentoring-Expert-4A90E2?style=flat-square)
+![Content_Creation](https://img.shields.io/badge/Content_Creation-Pro-FF6B6B?style=flat-square)
+![Clean_Code](https://img.shields.io/badge/Clean_Code-Advanced-7ED321?style=flat-square)
+![Problem_Solving](https://img.shields.io/badge/Problem_Solving-Expert-8E44AD?style=flat-square)
+![Competitive_Programming](https://img.shields.io/badge/Competitive_Programming-Strong-1F8ACB?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-Strong-2ECC71?style=flat-square)
+![Time_Management](https://img.shields.io/badge/Time_Management-Disciplined-F39C12?style=flat-square)
+![Consistency](https://img.shields.io/badge/Consistency-High-E74C3C?style=flat-square)
+![Self_Learning](https://img.shields.io/badge/Self_Learning-Advanced-3498DB?style=flat-square)
+
 
 ---
 
